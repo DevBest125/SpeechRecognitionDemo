@@ -1,0 +1,34 @@
+.main-container {
+  margin-top: 100px;
+}
+
+.play {
+  color: #14a76c;
+}
+
+.play:hover {
+  color: #0c6e47;
+}
+
+.stop {
+  color: #ff652f;
+}
+
+.stop:hover {
+  color: #d44916;
+}
+
+.output-display {
+  background-color: #383b4b;
+  height: 700px;
+}
+
+.fas,
+.fa {
+  cursor: pointer;
+}
+
+.background {
+  background-color: #272727;
+  color: #747474;
+}
